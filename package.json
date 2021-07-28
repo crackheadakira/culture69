@@ -1,31 +1,23 @@
 {
-  "name": "random-hub",
+  "name": "culture69",
   "version": "1.0.0",
-  "description": "Get a random nsfw gif image (hentai, real...)",
-  "main": "random-hub.js",
+  "description": "A handcrafted database for The Culture Man",
+  "main": "culture69",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoannchb-pro/random-hub.git"
+    "url": "git+https://github.com/crackheadakira/culture69.git"
   },
   "keywords": [
-    "random-hub",
-    "hub",
-    "hentai",
-    "nsfw",
-    "porn",
-    "random",
-    "discord",
-    "real",
-    "gif",
-    "image"
+    "the-culture-man",
+    "hentai"
   ],
-  "author": "yoannchb",
+  "author": "crackheadakira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yoannchb-pro/random-hub/issues"
+    "url": "https://github.com/crackheadakira/culture69/issues"
   },
-  "homepage": "https://github.com/yoannchb-pro/random-hub#readme"
+  "homepage": "https://github.com/crackheadakira/culture69#readme"
 }

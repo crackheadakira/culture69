@@ -1,5 +1,7 @@
 # culture69
 
+culture69 is a modified version of https://github.com/yoannchb-pro/random-hub
+
 A handcrafted database for The Culture Man
 
 ## Intallation ?

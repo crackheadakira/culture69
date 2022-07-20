@@ -1,8 +1,8 @@
 {
   "name": "culture69",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A handcrafted database for The Culture Man",
-  "main": "culture69",
+  "main": "index",
   "scripts": {
     "test": "node test.js"
   },

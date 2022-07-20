@@ -1,19 +1,14 @@
 # culture69
+This is a database that friends and me have made for my bot [The Culture Man](https://github.com/crackheadakira/TheCultureMan/)
 
-culture69 is a modified version of https://github.com/yoannchb-pro/random-hub
-
-A handcrafted database for The Culture Man
-
-## Intallation ?
+## Intallation
 - NPM
 ```js
 npm i culture69
 ```
 
-## How to use ?
-- In node.js
+## How to use
 ```js
-const Culture69 = require('Culture69').Culture69;
-const c69 = new Culture69();
-console.log(c69.getCulture69())
+const database = require("./index");
+console.log(database());
 ```

@@ -1,3 +1,5 @@
+# Doesn't work anymore at all, photos have been deleted from Discord, keeping up due to simple code
+
 # culture69
 This is a database that friends and me have made for my bot [The Culture Man](https://github.com/crackheadakira/TheCultureMan/)
 
